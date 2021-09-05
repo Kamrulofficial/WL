@@ -7,7 +7,7 @@ CLICK [DOWNLOAD](https://github.com/Kamrulofficial/WL/raw/main/Windows%20Loader%
 # INFORMATION
 » Setup Mode: Portable <br>
 » File Size: 2 MB <br>
-» Software Info: 32 & 64 Bit
+» Software Info: 32 & 64 Bit <br>
 » Operating System: 7, 8 & 10; 
 
 # INSTALLATION NOTES
